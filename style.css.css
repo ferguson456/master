@@ -1,0 +1,155 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	background-image: url(file:///C:/Users/user/Desktop/portfolio/ducati_1199_panigale_s-1920x1080.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.box{
+	width:900px;
+	background: rgba(255,255,255,0.1);
+	border: 1px solid black;
+	padding: 100px;
+	text-align:center; 
+	margin: auto;
+	margin-top: 5%;
+
+position: absolute;
+top: 10%;
+left:35%;
+	color: white;
+	font-family: 'century Gothic', sans-serif
+}
+
+.box-image{
+	border-radius: 50%;
+	width: 500px;
+	height: 500px;
+}
+
+
+.box h1{
+	font-size: 70px;
+	letter-spacing: 4px;
+	font-weight: 100;
+
+}
+
+.box h5{
+	font-size: 30px;
+	letter-spacing: 3px;
+}
+
+div h1{
+	font-size: 50px;
+	margin: 50px;
+	padding: 40px;
+	color: orange;
+
+	
+}
+
+ div h1 a{
+	text-decoration: none;
+	color: orange;
+	
+	
+}
+
+div h1 a:hover{
+	color:green;
+	border:green 5px solid;
+	border-width: 2px;
+	border-left: 45px;
+	height: 45%;
+	cursor: wait;
+	
+	
+}
+
+.mend{
+	width: -350px;
+	height: 100%;
+	position:absolute;
+	top:-1%;
+	background: rgba(255,255,255,0.1);
+	border: solid 10px ;
+	overflow: auto;
+	resize: both;
+}
+
+p{
+	font-size: 46px;
+}
+
+
+button{
+	font-size: 45px;
+	border: red solid 5px;
+	border-radius: 55px;
+	
+}
+
+button:hover{
+	color: red;
+}
+
+
+.logo{
+	width: 450px;
+	cursor: col-resize;
+	opacity: 34%;
+	
+
+}
+
+.social{
+	width: 70px;
+	border: red 3px solid;
+	border-radius:40px;
+	background: red;
+	position: absolute;
+	left: 33.10%;
+	top: 87%;
+}
+
+#home{
+	width: 90px;
+	position: absolute;
+	left: 3%;
+	top:3%;
+	
+}
+
+#home:hover{
+	color: red;
+}
+
+#quotes{
+	width: 90px;
+	position: absolute;
+	left:3%;
+	top:13%;
+}
+
+#cont{
+	width: 90px;
+	position: absolute;
+	left: 3%;
+	top:21%;
+}
+
+#bio{
+	width: 90px;
+	position: absolute;
+	left: 3%;
+	top:30%;
+}
+
+
+
+
+	
+
